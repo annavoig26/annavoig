@@ -1,4 +1,4 @@
-# Olá, eu sou a Giovanna Aguiar 👋
+# Meu Portifólio de Projetos
 
 Graduanda em **Ciência e Tecnologia na UFABC** (pretensão em Ciência da Computação), bolsista de Iniciação Científica (CNPq) no GECL e membro do subsistema de AIT na equipe aeroespacial **Sirius UFABC**.
 
